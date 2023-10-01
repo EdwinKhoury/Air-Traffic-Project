@@ -30,7 +30,7 @@ Of all the international regions visited by American passengers, Asia is the reg
 From the graph above, it is clear that United Airlines is the airline with the most international passengers (3,849,703). Big international airlines such as Lufthansa German Airlines, British Airways, Air France, and Singapore feature in the top 10.
 
 
-## ** Airlines with the Most Domestic Passengers**
+## **Airlines with the Most Domestic Passengers**
 
 ![Top 10 Airlines with the Most Domestic Passengers](https://github.com/EdwinKhoury/Air-Traffic-Project/assets/146214280/0b25cb98-1f37-4d2b-82a0-6008d9adf28a)
 
