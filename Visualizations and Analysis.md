@@ -48,7 +48,7 @@ There are two types of passengers: the domestic ones that fly inside the US and 
 
 ![Number of Airlines per Flight Category](https://github.com/EdwinKhoury/Air-Traffic-Project/assets/146214280/40f9229c-995b-4c91-8c5f-a0cb450fa079)
 
-Of the 77 operating airlines, more than half (40) only operate international flights. More than the third (22) only operate domestic flights. The remaining airlines (13) operate both types of flights, whether domestic or international.
+Of the 77 operating airlines, more than half (40) only operate international flights. Less than a third (22) only operate domestic flights. The remaining airlines (13) operate both types of flights, whether domestic or international.
 
 
 
