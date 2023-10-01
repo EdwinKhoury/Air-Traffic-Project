@@ -36,4 +36,29 @@ From the graph above, it is clear that United Airlines is the airline with the m
 
 United Airlines is the airline with the highest number of domestic passengers (137,445,500). It is seemingly the most trusted and used airline by Americans.
 
-##
+
+## **Domestic and International Passengers**
+
+![Number of Domestic and International Passengers](https://github.com/EdwinKhoury/Air-Traffic-Project/assets/146214280/9c2825fc-7182-406c-bf64-a2673a041949)
+
+There are two types of passengers: the domestic ones that fly inside the US and the international ones that fly outside the US. In the data collected, more than 3/4th of the passengers are domestic (339,037,809) and the rest are international (101,138,719)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
